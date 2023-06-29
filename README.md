@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DonJuan88
-- 👀 I’m interested in Dekstop Programming likely Python, VB6 or R
-- 🌱 I’m currently learning Python, R, Laravel, Next-js and WPF C#
+- 👀 Interested in Dekstop Programming likely Python, VB6 or R
+- 🌱 Currently learning Git-Github, Laravel, Postgre and Go
 
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
